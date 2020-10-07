@@ -1,4 +1,7 @@
 a = linspace(0, 10, 1000);
 b = sin.(a);
 
-plot(a,b)
+plot(a, b)
+
+c = sqrt(b)
+plot(a, c)
