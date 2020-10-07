@@ -5,3 +5,6 @@ plot(a, b)
 
 c = sqrt(b)
 plot(a, c)
+
+d = atan(b)
+plot(a, d)
