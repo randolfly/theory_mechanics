@@ -3,8 +3,8 @@ b = sin.(a);
 
 plot(a, b)
 
-c = sqrt(b)
+c = sqrt(b);
 plot(a, c)
 
-d = atan(b)
+d = atan(b);
 plot(a, d)
