@@ -7,7 +7,7 @@
         {
             "type": "matlab",
             "request": "launch",
-            "name": "Start Matlab debug adaptor"
+            "name": "Start Matlab"
         }
     ]
 }

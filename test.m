@@ -1,10 +1,10 @@
 a = linspace(0, 10, 1000);
-b = sin.(a);
+b = sin(a);
 
-plot(a, b)
+% plot(a, b)
 
 c = sqrt(b);
-plot(a, c)
+% plot(a, c)
 
 d = atan(b);
-plot(a, d)
+plot(a, b, a, c, a, d)
